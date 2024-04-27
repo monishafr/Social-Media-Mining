@@ -2,7 +2,7 @@
 This repository contains detailed documentation and results for three distinct research projects, each analyzing data from Reddit to explore different phenomena within fashion trends, video game culture, and sports sentiments. Each project involved data collection via Reddit's API and used advanced analytical methods, including sentiment analysis and topic modeling, to extract and interpret key trends and insights.
 
 ## 1. Fashion Trends Set by the MET Gala and Their Impact on Social Media
-####Introduction
+#### Introduction
 This project examines how fashion trends showcased at the MET Gala influence the prevalence and engagement of related fashion hashtags on social media platforms like Instagram and Pinterest. The MET Gala, renowned for setting significant fashion trends, offers a unique opportunity to study the ripple effects of these trends across digital communities.
 
 #### Conclusion
@@ -23,7 +23,7 @@ The analysis revealed that while GTA 5 enjoyed a largely positive reception, the
 #### Introduction
 Focusing on the Ultimate Fighting Championship (UFC), this research tracks the evolution of fan sentiments and thematic discussions on Reddit from 2022 to 2024, with a particular focus on the discussions surrounding UFC 300's main event between Justin Gaethje and Max Holloway. This project aims to uncover how fan emotions and discussion topics shift through the stages of anticipation to post-event reactions.
 
-Conclusion
+#### Conclusion
 The study provides insights into the dynamic changes in fan sentiments and discussion themes over time. Post-fight discussions showed a significant shift toward positive sentiments for the winner and a nuanced range of themes, from strategic discussions to emotional reactions. These findings underscore the impact of major sports events on fan engagement and discussion in online communities.
 <img width="782" alt="image" src="https://github.com/monishafr/Social-Media-Mining/assets/116788211/d97a88d4-a7af-4139-ba0f-55c74dd3f390">
 
